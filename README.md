@@ -1,0 +1,14 @@
+einops==0.6.1
+ema_pytorch==0.2.3
+matplotlib==3.7.2
+numpy==1.24.4
+opencv==4.6.0
+opencv_python_headless==4.8.0.74
+Pillow==10.0.0
+PyYAML==6.0.1
+scikit_image==0.19.3
+scipy==1.6.3
+termcolor==2.3.0
+torch==2.0.1
+torchvision==0.15.2
+tqdm==4.65.0
