@@ -11,7 +11,6 @@ This repository contains an implementation of a **Denoising Probabilistic Diffus
 - **Multi-dataset support**: Evaluated on **ISIC 2018, PH2, BraTS, ClinicDB, and CVC-ClinicDB** datasets.
 
 ---
-pip install -r requirements.txt
 ## Train
 ```bash
 pip install -r requirements.txt
