@@ -11,3 +11,13 @@ This repository contains an implementation of a **Denoising Probabilistic Diffus
 - **Multi-dataset support**: Evaluated on **ISIC 2018, PH2, BraTS, ClinicDB, and CVC-ClinicDB** datasets.
 
 ---
+pip install -r requirements.txt
+## Train
+python train.py --dataset ISIC2018 --batch_size 16 --epochs 100 --lr 0.0001
+
+@article{your_paper,
+  title={Diffusion-Based Medical Image Segmentation},
+  author={Your Name et al.},
+  journal={ArXiv},
+  year={2025}
+}
